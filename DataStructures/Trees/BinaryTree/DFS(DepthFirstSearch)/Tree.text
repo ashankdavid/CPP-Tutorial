@@ -1,0 +1,3 @@
+Preorder(data, left, right)
+inorder(left, data, right)
+Postorder(left, right, data)

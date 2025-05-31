@@ -1,0 +1,6 @@
+different cases we use in programming
+
+1) Camel Case - ThisIsCamelCase
+2) mixed case - thisIsAMixedCase
+3) lower case
+4) upper case

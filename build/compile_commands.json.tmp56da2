@@ -1,0 +1,149 @@
+[
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial.dir\\Basics\\HelloWorld.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\HelloWorld.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/HelloWorld.cpp",
+  "output": "CMakeFiles/C___Tutorial.dir/Basics/HelloWorld.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_0.dir\\Basics\\C++_Comments.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\C++_Comments.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/C++_Comments.cpp",
+  "output": "CMakeFiles/C___Tutorial_0.dir/Basics/C++_Comments.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_1.dir\\Basics\\CoutDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\CoutDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/CoutDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_1.dir/Basics/CoutDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_2.dir\\Basics\\CinDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\CinDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/CinDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_2.dir/Basics/CinDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_3.dir\\TypeCasting\\C++_Implicit_TypeCasting.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\TypeCasting\\C++_Implicit_TypeCasting.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/TypeCasting/C++_Implicit_TypeCasting.cpp",
+  "output": "CMakeFiles/C___Tutorial_3.dir/TypeCasting/C++_Implicit_TypeCasting.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_4.dir\\TypeCasting\\C++_Explicit_TypeCasting.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\TypeCasting\\C++_Explicit_TypeCasting.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/TypeCasting/C++_Explicit_TypeCasting.cpp",
+  "output": "CMakeFiles/C___Tutorial_4.dir/TypeCasting/C++_Explicit_TypeCasting.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_5.dir\\Control_Flow_Statements\\Conditional_Statements\\IF_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\IF_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/IF_Statement.cpp",
+  "output": "CMakeFiles/C___Tutorial_5.dir/Control_Flow_Statements/Conditional_Statements/IF_Statement.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_6.dir\\Control_Flow_Statements\\Conditional_Statements\\IF-Else.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\IF-Else.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/IF-Else.cpp",
+  "output": "CMakeFiles/C___Tutorial_6.dir/Control_Flow_Statements/Conditional_Statements/IF-Else.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_7.dir\\Control_Flow_Statements\\Conditional_Statements\\IF-Else-Ladder.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\IF-Else-Ladder.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/IF-Else-Ladder.cpp",
+  "output": "CMakeFiles/C___Tutorial_7.dir/Control_Flow_Statements/Conditional_Statements/IF-Else-Ladder.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_8.dir\\Control_Flow_Statements\\Conditional_Statements\\Nested_IF-Else.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\Nested_IF-Else.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/Nested_IF-Else.cpp",
+  "output": "CMakeFiles/C___Tutorial_8.dir/Control_Flow_Statements/Conditional_Statements/Nested_IF-Else.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_9.dir\\Control_Flow_Statements\\Conditional_Statements\\Switch_Case.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\Switch_Case.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/Switch_Case.cpp",
+  "output": "CMakeFiles/C___Tutorial_9.dir/Control_Flow_Statements/Conditional_Statements/Switch_Case.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_10.dir\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\ForLoopDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\ForLoopDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/For_Loops/ForLoopDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_10.dir/Control_Flow_Statements/Looping_Statements/For_Loops/ForLoopDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_11.dir\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Nested_ForLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Nested_ForLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/For_Loops/Nested_ForLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_11.dir/Control_Flow_Statements/Looping_Statements/For_Loops/Nested_ForLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_12.dir\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Infinite_ForLoop.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Infinite_ForLoop.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/For_Loops/Infinite_ForLoop.cpp",
+  "output": "CMakeFiles/C___Tutorial_12.dir/Control_Flow_Statements/Looping_Statements/For_Loops/Infinite_ForLoop.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_13.dir\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\WhileLoopsDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\WhileLoopsDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/WhileLoops/WhileLoopsDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_13.dir/Control_Flow_Statements/Looping_Statements/WhileLoops/WhileLoopsDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_14.dir\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Nested_WhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Nested_WhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/WhileLoops/Nested_WhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_14.dir/Control_Flow_Statements/Looping_Statements/WhileLoops/Nested_WhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_15.dir\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Infinite_WhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Infinite_WhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/WhileLoops/Infinite_WhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_15.dir/Control_Flow_Statements/Looping_Statements/WhileLoops/Infinite_WhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_16.dir\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\do_WhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\do_WhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/do_WhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_16.dir/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/do_WhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_17.dir\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Nested_doWhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Nested_doWhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Nested_doWhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_17.dir/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Nested_doWhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_18.dir\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Infinite_doWhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Infinite_doWhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Infinite_doWhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_18.dir/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Infinite_doWhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_19.dir\\Control_Flow_Statements\\Misc\\Break_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\Break_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/Break_Statement.cpp",
+  "output": "CMakeFiles/C___Tutorial_19.dir/Control_Flow_Statements/Misc/Break_Statement.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_20.dir\\Control_Flow_Statements\\Misc\\BreakWithInnerLoop.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\BreakWithInnerLoop.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/BreakWithInnerLoop.cpp",
+  "output": "CMakeFiles/C___Tutorial_20.dir/Control_Flow_Statements/Misc/BreakWithInnerLoop.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_21.dir\\Control_Flow_Statements\\Misc\\Continue_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\Continue_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/Continue_Statement.cpp",
+  "output": "CMakeFiles/C___Tutorial_21.dir/Control_Flow_Statements/Misc/Continue_Statement.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_22.dir\\Control_Flow_Statements\\Misc\\ContinueWithInnerLoop.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\ContinueWithInnerLoop.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/ContinueWithInnerLoop.cpp",
+  "output": "CMakeFiles/C___Tutorial_22.dir/Control_Flow_Statements/Misc/ContinueWithInnerLoop.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_23.dir\\Control_Flow_Statements\\Misc\\Goto_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\Goto_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code

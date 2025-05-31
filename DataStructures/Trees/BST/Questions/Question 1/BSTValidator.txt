@@ -1,0 +1,26 @@
+Question – TCS(2022), Infosys(2022,23), Amazon(2022)
+
+Problem Statement:
+Implementing a Binary Tree Validator
+You are tasked with designing a C++ program to determine whether a given Binary Tree is a Binary Search Tree (BST) or not. Your solution should utilize classes and objects to encapsulate tree nodes and the necessary functions to perform the validation.
+Requirements:
+1.	Binary Tree Definition: Implement a TreeNode class to represent nodes of the binary tree. Each node should have attributes val, left, and right pointing to its value and its left and right child nodes, respectively.
+2.	Binary Search Tree (BST) Definition: A Binary Search Tree is a binary tree where for each node:
+•	The values in the left subtree are less than the node's value.
+•	The values in the right subtree are greater than the node's value.
+•	No duplicate values are allowed.
+3.	Implement a BinaryTree Class: This class should encapsulate the entire binary tree structure and provide methods for operations such as insertion and validation.
+•	Use an appropriate constructor to initialize the root node of the tree.
+•	Implement a method insert(int val) to insert a new value into the BST while maintaining its properties.
+•	Implement a method isBST() to check whether the tree is a valid BST or not. This method should return true if the tree satisfies the BST properties and false otherwise.
+
+  Additional Guidelines:
+•	Ensure that your implementation adheres to proper OOP principles by utilizing classes, objects, constructors, and methods effectively.
+•	You may use helper functions or additional classes as needed to assist in your implementation.
+•	Test your solution with various test cases, including valid and invalid BSTs, empty trees, and trees with a single node.
+
+Bonus Challenge (Optional):
+Extend your solution by implementing additional functionalities such as:
+•	A method to delete a node from the BST.
+•	A method to find the height or size of the tree.
+•	Handling cases where duplicate values might be allowed in the tree.

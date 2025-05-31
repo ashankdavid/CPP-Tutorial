@@ -1,0 +1,23 @@
+Operators
+Conditional Statements
+Looping Statements
+Pattern Printing Programs
+Functions
+Recursion
+Call By Value vs Call By Reference
+Strings
+Arrays
+Pointers
+Structures and Unions
+Dynamic Memory Allocation
+Exception Handling
+Object Oriented Programming
+Basic OOPS
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+DSA
+Linked List
+
+

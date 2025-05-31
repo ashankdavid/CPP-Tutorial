@@ -1,0 +1,42 @@
+Question – Microsoft (2022), IBM (2022), Accenture (2023), Amazon (2020)
+
+Problem Statement:
+Finding a Pair with Given Sum in a Binary Search Tree (BST)
+You are given a Binary Search Tree (BST) and a target sum k. Your task is to implement a method findPair(root, k) that determines whether there exists a pair of distinct nodes in the BST whose sum equals k. If such a pair exists, the function should return True; otherwise, return False.
+Additionally, you are required to implement a helper function findPairUntil(root, node, k, visited) which recursively searches for a complement node to form the desired sum k.
+
+Detailed Description:
+A Binary Search Tree (BST) is a special type of binary tree where for any node:
+1.	The left subtree contains only nodes with values less than the node's value.
+2.	The right subtree contains only nodes with values greater than the node's value.
+To solve the problem of finding a pair with a given sum k in the BST efficiently, we can use the properties of BSTs and a two-pointer technique.
+
+Approach Breakdown:
+1.	Two-Pointer Technique: Start by initializing two pointers - left and right. The left pointer will traverse the tree in an inorder (left, root, right) manner, and the right pointer will traverse in a reverse inorder (right, root, left) manner.
+2.	Inorder Traversal (findPair): Use the findPair function to traverse the BST in an inorder manner. For each node node, check if there exists a complement node (using the findPairUntil helper) that sums up to k.
+3.	Helper Function (findPairUntil): Implement the findPairUntil function to recursively search for a complement node that sums up to k. This function uses a set visited to keep track of nodes that have been visited.
+
+Function Signatures:
+•	findPair(root, k) -> bool: This function takes the root of the BST and an integer k as input. It initializes the left and right pointers and calls the findPairUntil function to determine if there exists a pair of nodes that sum up to k.
+•	findPairUntil(root, node, k, visited) -> bool: This is a helper function that recursively searches for a complement node for node in the BST that sums up to k. The visited set keeps track of visited nodes to ensure distinct pairs.
+Constraints:
+1.	Nodes in the BST are unique.
+2.	The input tree can be empty (root = None), and in such cases, return False.
+Example:
+Consider the following BST:
+            8
+         /      \
+      3        11
+    /    \           \
+  1      6           15
+/             \        /
+4             7    13
+
+
+•	For k = 14, the function findPair(root, 14) should return True because there exists a pair (3, 11) which sums up to 14.
+•	For k = 20, the function findPair(root, 20) should return True because there exists a pair (4, 15) which sums up to 20.
+•	For k = 10, the function findPair(root, 10) should return False because no pair of distinct nodes sums up to 10.
+
+Instructions:
+Please implement the findPair(root, k) and findPairUntil(root, node, k, visited) functions in your preferred programming language. Ensure your solution handles edge cases appropriately and maintains the BST properties during traversal and search. You may assume the availability of basic BST node definitions and operations.
+

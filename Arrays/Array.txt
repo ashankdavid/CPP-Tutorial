@@ -1,0 +1,40 @@
+A collection of related data items stored in adjacent memory
+places is referred to as an array in the C/C++ programming
+language or any other programming language for that matter.
+
+Elements of an array can be accessed arbitrarily using its indices.
+
+They can be used to store a collection of any type of primitive data type,
+including int, float, double, char, etc.
+
+An array in C/C++ can also store derived data types like structures,
+pointers, and other data types
+
+Advantage:
+Code Optimization (less code)
+Random Access
+Easy to traverse data
+Easy to manipulate data
+Easy to sort data etc.
+
+Disadvantage:
+Fixed Size
+
+Types of Arrays:
+There are 2 types of arrays in C++ programming:
+1. Single Dimensional Array
+2. Multidimensional Array
+
+Why do we need arrays?
+With a limited number of objects, we can use regular variables (v1, v2, v3,..),
+but when we need to hold many instances, managing them with normal variables
+becomes challenging. To represent numerous instances in one variable,
+we use an array.
+
+What happens if we try to access out of bound array?
+The array's elements will be numbered 0 through 9 if we define an
+array of size 10.
+
+We will have Undefined Behaviour if we attempt to access an element
+at an index higher than 10, though.
+

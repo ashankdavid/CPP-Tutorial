@@ -1,0 +1,524 @@
+[
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial.dir\\Basics\\HelloWorld.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\HelloWorld.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/HelloWorld.cpp",
+  "output": "CMakeFiles/C___Tutorial.dir/Basics/HelloWorld.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_0.dir\\Basics\\C++_Comments.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\C++_Comments.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/C++_Comments.cpp",
+  "output": "CMakeFiles/C___Tutorial_0.dir/Basics/C++_Comments.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_1.dir\\Basics\\CoutDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\CoutDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/CoutDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_1.dir/Basics/CoutDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_2.dir\\Basics\\CinDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Basics\\CinDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Basics/CinDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_2.dir/Basics/CinDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_3.dir\\TypeCasting\\C++_Implicit_TypeCasting.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\TypeCasting\\C++_Implicit_TypeCasting.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/TypeCasting/C++_Implicit_TypeCasting.cpp",
+  "output": "CMakeFiles/C___Tutorial_3.dir/TypeCasting/C++_Implicit_TypeCasting.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_4.dir\\TypeCasting\\C++_Explicit_TypeCasting.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\TypeCasting\\C++_Explicit_TypeCasting.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/TypeCasting/C++_Explicit_TypeCasting.cpp",
+  "output": "CMakeFiles/C___Tutorial_4.dir/TypeCasting/C++_Explicit_TypeCasting.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_5.dir\\Control_Flow_Statements\\Conditional_Statements\\IF_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\IF_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/IF_Statement.cpp",
+  "output": "CMakeFiles/C___Tutorial_5.dir/Control_Flow_Statements/Conditional_Statements/IF_Statement.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_6.dir\\Control_Flow_Statements\\Conditional_Statements\\IF-Else.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\IF-Else.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/IF-Else.cpp",
+  "output": "CMakeFiles/C___Tutorial_6.dir/Control_Flow_Statements/Conditional_Statements/IF-Else.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_7.dir\\Control_Flow_Statements\\Conditional_Statements\\IF-Else-Ladder.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\IF-Else-Ladder.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/IF-Else-Ladder.cpp",
+  "output": "CMakeFiles/C___Tutorial_7.dir/Control_Flow_Statements/Conditional_Statements/IF-Else-Ladder.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_8.dir\\Control_Flow_Statements\\Conditional_Statements\\Nested_IF-Else.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\Nested_IF-Else.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/Nested_IF-Else.cpp",
+  "output": "CMakeFiles/C___Tutorial_8.dir/Control_Flow_Statements/Conditional_Statements/Nested_IF-Else.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_9.dir\\Control_Flow_Statements\\Conditional_Statements\\Switch_Case.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Conditional_Statements\\Switch_Case.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Conditional_Statements/Switch_Case.cpp",
+  "output": "CMakeFiles/C___Tutorial_9.dir/Control_Flow_Statements/Conditional_Statements/Switch_Case.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_10.dir\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\ForLoopDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\ForLoopDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/For_Loops/ForLoopDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_10.dir/Control_Flow_Statements/Looping_Statements/For_Loops/ForLoopDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_11.dir\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Nested_ForLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Nested_ForLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/For_Loops/Nested_ForLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_11.dir/Control_Flow_Statements/Looping_Statements/For_Loops/Nested_ForLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_12.dir\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Infinite_ForLoop.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\For_Loops\\Infinite_ForLoop.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/For_Loops/Infinite_ForLoop.cpp",
+  "output": "CMakeFiles/C___Tutorial_12.dir/Control_Flow_Statements/Looping_Statements/For_Loops/Infinite_ForLoop.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_13.dir\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\WhileLoopsDemo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\WhileLoopsDemo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/WhileLoops/WhileLoopsDemo.cpp",
+  "output": "CMakeFiles/C___Tutorial_13.dir/Control_Flow_Statements/Looping_Statements/WhileLoops/WhileLoopsDemo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_14.dir\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Nested_WhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Nested_WhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/WhileLoops/Nested_WhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_14.dir/Control_Flow_Statements/Looping_Statements/WhileLoops/Nested_WhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_15.dir\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Infinite_WhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\WhileLoops\\Infinite_WhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/WhileLoops/Infinite_WhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_15.dir/Control_Flow_Statements/Looping_Statements/WhileLoops/Infinite_WhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_16.dir\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\do_WhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\do_WhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/do_WhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_16.dir/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/do_WhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_17.dir\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Nested_doWhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Nested_doWhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Nested_doWhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_17.dir/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Nested_doWhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_18.dir\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Infinite_doWhileLoops.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Looping_Statements\\Do_WhileLoops\\Infinite_doWhileLoops.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Infinite_doWhileLoops.cpp",
+  "output": "CMakeFiles/C___Tutorial_18.dir/Control_Flow_Statements/Looping_Statements/Do_WhileLoops/Infinite_doWhileLoops.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_19.dir\\Control_Flow_Statements\\Misc\\Break_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\Break_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/Break_Statement.cpp",
+  "output": "CMakeFiles/C___Tutorial_19.dir/Control_Flow_Statements/Misc/Break_Statement.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_20.dir\\Control_Flow_Statements\\Misc\\BreakWithInnerLoop.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\BreakWithInnerLoop.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/BreakWithInnerLoop.cpp",
+  "output": "CMakeFiles/C___Tutorial_20.dir/Control_Flow_Statements/Misc/BreakWithInnerLoop.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_21.dir\\Control_Flow_Statements\\Misc\\Continue_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\Continue_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/Continue_Statement.cpp",
+  "output": "CMakeFiles/C___Tutorial_21.dir/Control_Flow_Statements/Misc/Continue_Statement.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_22.dir\\Control_Flow_Statements\\Misc\\ContinueWithInnerLoop.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\ContinueWithInnerLoop.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/ContinueWithInnerLoop.cpp",
+  "output": "CMakeFiles/C___Tutorial_22.dir/Control_Flow_Statements/Misc/ContinueWithInnerLoop.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_23.dir\\Control_Flow_Statements\\Misc\\Goto_Statement.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Control_Flow_Statements\\Misc\\Goto_Statement.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Control_Flow_Statements/Misc/Goto_Statement.cpp",
+  "output": "CMakeFiles/C___Tutorial_23.dir/Control_Flow_Statements/Misc/Goto_Statement.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_24.dir\\Functions\\FunctionDemo1.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Functions\\FunctionDemo1.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Functions/FunctionDemo1.cpp",
+  "output": "CMakeFiles/C___Tutorial_24.dir/Functions/FunctionDemo1.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_25.dir\\Functions\\FunctionDemo2.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Functions\\FunctionDemo2.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Functions/FunctionDemo2.cpp",
+  "output": "CMakeFiles/C___Tutorial_25.dir/Functions/FunctionDemo2.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_26.dir\\Programs\\SumofNaturalNumbers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Programs\\SumofNaturalNumbers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Programs/SumofNaturalNumbers.cpp",
+  "output": "CMakeFiles/C___Tutorial_26.dir/Programs/SumofNaturalNumbers.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_27.dir\\Programs\\Fibonacci_Series.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Programs\\Fibonacci_Series.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Programs/Fibonacci_Series.cpp",
+  "output": "CMakeFiles/C___Tutorial_27.dir/Programs/Fibonacci_Series.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_28.dir\\Programs\\SwappingTwoNumbers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Programs\\SwappingTwoNumbers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Programs/SwappingTwoNumbers.cpp",
+  "output": "CMakeFiles/C___Tutorial_28.dir/Programs/SwappingTwoNumbers.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_29.dir\\Functions\\CallByValueSwap.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Functions\\CallByValueSwap.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Functions/CallByValueSwap.cpp",
+  "output": "CMakeFiles/C___Tutorial_29.dir/Functions/CallByValueSwap.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_30.dir\\Functions\\CallByReferenceSwap.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Functions\\CallByReferenceSwap.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Functions/CallByReferenceSwap.cpp",
+  "output": "CMakeFiles/C___Tutorial_30.dir/Functions/CallByReferenceSwap.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_31.dir\\Demo\\Demo.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Demo\\Demo.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Demo/Demo.cpp",
+  "output": "CMakeFiles/C___Tutorial_31.dir/Demo/Demo.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_32.dir\\Functions\\Recursion\\Factorial.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Functions\\Recursion\\Factorial.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Functions/Recursion/Factorial.cpp",
+  "output": "CMakeFiles/C___Tutorial_32.dir/Functions/Recursion/Factorial.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_33.dir\\Functions\\Recursion\\SumOfNaturalNumbers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Functions\\Recursion\\SumOfNaturalNumbers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Functions/Recursion/SumOfNaturalNumbers.cpp",
+  "output": "CMakeFiles/C___Tutorial_33.dir/Functions/Recursion/SumOfNaturalNumbers.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_34.dir\\Functions\\Recursion\\Fibonacci.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Functions\\Recursion\\Fibonacci.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Functions/Recursion/Fibonacci.cpp",
+  "output": "CMakeFiles/C___Tutorial_34.dir/Functions/Recursion/Fibonacci.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_35.dir\\Arrays\\SingleDimensional\\Array.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Arrays\\SingleDimensional\\Array.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Arrays/SingleDimensional/Array.cpp",
+  "output": "CMakeFiles/C___Tutorial_35.dir/Arrays/SingleDimensional/Array.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_36.dir\\Arrays\\SingleDimensional\\TraversalFOrEachLoop.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Arrays\\SingleDimensional\\TraversalFOrEachLoop.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Arrays/SingleDimensional/TraversalFOrEachLoop.cpp",
+  "output": "CMakeFiles/C___Tutorial_36.dir/Arrays/SingleDimensional/TraversalFOrEachLoop.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_37.dir\\Arrays\\SingleDimensional\\SumandAverageofArray.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Arrays\\SingleDimensional\\SumandAverageofArray.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Arrays/SingleDimensional/SumandAverageofArray.cpp",
+  "output": "CMakeFiles/C___Tutorial_37.dir/Arrays/SingleDimensional/SumandAverageofArray.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_38.dir\\Arrays\\SingleDimensional\\DisplayArrayElements.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Arrays\\SingleDimensional\\DisplayArrayElements.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Arrays/SingleDimensional/DisplayArrayElements.cpp",
+  "output": "CMakeFiles/C___Tutorial_38.dir/Arrays/SingleDimensional/DisplayArrayElements.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_39.dir\\Arrays\\ArrayToFunction\\PrintArrayElements.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Arrays\\ArrayToFunction\\PrintArrayElements.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Arrays/ArrayToFunction/PrintArrayElements.cpp",
+  "output": "CMakeFiles/C___Tutorial_39.dir/Arrays/ArrayToFunction/PrintArrayElements.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_40.dir\\Arrays\\ArrayToFunction\\ArrayToFunctionMaximum.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Arrays\\ArrayToFunction\\ArrayToFunctionMaximum.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Arrays/ArrayToFunction/ArrayToFunctionMaximum.cpp",
+  "output": "CMakeFiles/C___Tutorial_40.dir/Arrays/ArrayToFunction/ArrayToFunctionMaximum.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_41.dir\\Arrays\\MultiDimensionalArray\\MultiDArray.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Arrays\\MultiDimensionalArray\\MultiDArray.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Arrays/MultiDimensionalArray/MultiDArray.cpp",
+  "output": "CMakeFiles/C___Tutorial_41.dir/Arrays/MultiDimensionalArray/MultiDArray.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_42.dir\\Pointers\\PointerExample.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\PointerExample.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/PointerExample.cpp",
+  "output": "CMakeFiles/C___Tutorial_42.dir/Pointers/PointerExample.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_43.dir\\Pointers\\PointersSwapWithoutThirdVariable.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\PointersSwapWithoutThirdVariable.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/PointersSwapWithoutThirdVariable.cpp",
+  "output": "CMakeFiles/C___Tutorial_43.dir/Pointers/PointersSwapWithoutThirdVariable.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_45.dir\\Pointers\\ArrayOfPointers\\ArrayNameAsPointer.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\ArrayOfPointers\\ArrayNameAsPointer.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/ArrayOfPointers/ArrayNameAsPointer.cpp",
+  "output": "CMakeFiles/C___Tutorial_45.dir/Pointers/ArrayOfPointers/ArrayNameAsPointer.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_46.dir\\Pointers\\ArrayOfPointers\\ArrayOfPointers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\ArrayOfPointers\\ArrayOfPointers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/ArrayOfPointers/ArrayOfPointers.cpp",
+  "output": "CMakeFiles/C___Tutorial_46.dir/Pointers/ArrayOfPointers/ArrayOfPointers.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_47.dir\\Pointers\\VoidPointer.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\VoidPointer.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/VoidPointer.cpp",
+  "output": "CMakeFiles/C___Tutorial_47.dir/Pointers/VoidPointer.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_48.dir\\Pointers\\VoidPointerTypeCasting.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\VoidPointerTypeCasting.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/VoidPointerTypeCasting.cpp",
+  "output": "CMakeFiles/C___Tutorial_48.dir/Pointers/VoidPointerTypeCasting.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_49.dir\\Pointers\\ReferenceVariableExample1.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\ReferenceVariableExample1.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/ReferenceVariableExample1.cpp",
+  "output": "CMakeFiles/C___Tutorial_49.dir/Pointers/ReferenceVariableExample1.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_50.dir\\Pointers\\ReferenceVariableExample2.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\ReferenceVariableExample2.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/ReferenceVariableExample2.cpp",
+  "output": "CMakeFiles/C___Tutorial_50.dir/Pointers/ReferenceVariableExample2.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_51.dir\\Pointers\\ReferenceVariableExample3.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\ReferenceVariableExample3.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/ReferenceVariableExample3.cpp",
+  "output": "CMakeFiles/C___Tutorial_51.dir/Pointers/ReferenceVariableExample3.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_52.dir\\StructuresAndUnions\\StructureExample1.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\StructuresAndUnions\\StructureExample1.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/StructuresAndUnions/StructureExample1.cpp",
+  "output": "CMakeFiles/C___Tutorial_52.dir/StructuresAndUnions/StructureExample1.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_53.dir\\StructuresAndUnions\\UnionsExample1.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\StructuresAndUnions\\UnionsExample1.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/StructuresAndUnions/UnionsExample1.cpp",
+  "output": "CMakeFiles/C___Tutorial_53.dir/StructuresAndUnions/UnionsExample1.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_54.dir\\Pointers\\PrintingPointers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\PrintingPointers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/PrintingPointers.cpp",
+  "output": "CMakeFiles/C___Tutorial_54.dir/Pointers/PrintingPointers.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_55.dir\\Pointers\\DoublePointers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\DoublePointers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/DoublePointers.cpp",
+  "output": "CMakeFiles/C___Tutorial_55.dir/Pointers/DoublePointers.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_56.dir\\C++OOPs\\HelloWorldCLass.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\HelloWorldCLass.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/HelloWorldCLass.cpp",
+  "output": "CMakeFiles/C___Tutorial_56.dir/C++OOPs/HelloWorldCLass.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_57.dir\\C++OOPs\\ClassesAndObjects.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\ClassesAndObjects.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/ClassesAndObjects.cpp",
+  "output": "CMakeFiles/C___Tutorial_57.dir/C++OOPs/ClassesAndObjects.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_58.dir\\C++OOPs\\ClassesObjectsWithMethods.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\ClassesObjectsWithMethods.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/ClassesObjectsWithMethods.cpp",
+  "output": "CMakeFiles/C___Tutorial_58.dir/C++OOPs/ClassesObjectsWithMethods.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_59.dir\\C++OOPs\\Constructors\\DefaultConstructor.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Constructors\\DefaultConstructor.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Constructors/DefaultConstructor.cpp",
+  "output": "CMakeFiles/C___Tutorial_59.dir/C++OOPs/Constructors/DefaultConstructor.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_60.dir\\C++OOPs\\Constructors\\ParameterizedConstructors.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Constructors\\ParameterizedConstructors.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Constructors/ParameterizedConstructors.cpp",
+  "output": "CMakeFiles/C___Tutorial_60.dir/C++OOPs/Constructors/ParameterizedConstructors.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_61.dir\\C++OOPs\\Constructors\\Destructors.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Constructors\\Destructors.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Constructors/Destructors.cpp",
+  "output": "CMakeFiles/C___Tutorial_61.dir/C++OOPs/Constructors/Destructors.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_62.dir\\C++OOPs\\ThisKeyword.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\ThisKeyword.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/ThisKeyword.cpp",
+  "output": "CMakeFiles/C___Tutorial_62.dir/C++OOPs/ThisKeyword.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_63.dir\\C++OOPs\\Static.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Static.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Static.cpp",
+  "output": "CMakeFiles/C___Tutorial_63.dir/C++OOPs/Static.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_64.dir\\C++OOPs\\FriendFunction.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\FriendFunction.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/FriendFunction.cpp",
+  "output": "CMakeFiles/C___Tutorial_64.dir/C++OOPs/FriendFunction.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_65.dir\\C++OOPs\\FriendClass.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\FriendClass.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/FriendClass.cpp",
+  "output": "CMakeFiles/C___Tutorial_65.dir/C++OOPs/FriendClass.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_66.dir\\C++OOPs\\Inheritance\\SingleLevel.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Inheritance\\SingleLevel.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Inheritance/SingleLevel.cpp",
+  "output": "CMakeFiles/C___Tutorial_66.dir/C++OOPs/Inheritance/SingleLevel.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_67.dir\\C++OOPs\\Inheritance\\MultiLevel.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Inheritance\\MultiLevel.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Inheritance/MultiLevel.cpp",
+  "output": "CMakeFiles/C___Tutorial_67.dir/C++OOPs/Inheritance/MultiLevel.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_68.dir\\C++OOPs\\Inheritance\\Hierarchical.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Inheritance\\Hierarchical.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Inheritance/Hierarchical.cpp",
+  "output": "CMakeFiles/C___Tutorial_68.dir/C++OOPs/Inheritance/Hierarchical.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_69.dir\\C++OOPs\\Inheritance\\Multiple.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Inheritance\\Multiple.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Inheritance/Multiple.cpp",
+  "output": "CMakeFiles/C___Tutorial_69.dir/C++OOPs/Inheritance/Multiple.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_70.dir\\C++OOPs\\Inheritance\\AmbiquityResolution.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Inheritance\\AmbiquityResolution.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Inheritance/AmbiquityResolution.cpp",
+  "output": "CMakeFiles/C___Tutorial_70.dir/C++OOPs/Inheritance/AmbiquityResolution.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_71.dir\\C++OOPs\\Aggregation.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Aggregation.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Aggregation.cpp",
+  "output": "CMakeFiles/C___Tutorial_71.dir/C++OOPs/Aggregation.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_72.dir\\C++OOPs\\Polymorphism\\Overriding.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Polymorphism\\Overriding.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Polymorphism/Overriding.cpp",
+  "output": "CMakeFiles/C___Tutorial_72.dir/C++OOPs/Polymorphism/Overriding.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_73.dir\\C++OOPs\\Polymorphism\\PolymorphsimExample.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Polymorphism\\PolymorphsimExample.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Polymorphism/PolymorphsimExample.cpp",
+  "output": "CMakeFiles/C___Tutorial_73.dir/C++OOPs/Polymorphism/PolymorphsimExample.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_74.dir\\C++OOPs\\Polymorphism\\Overloading.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Polymorphism\\Overloading.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Polymorphism/Overloading.cpp",
+  "output": "CMakeFiles/C___Tutorial_74.dir/C++OOPs/Polymorphism/Overloading.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_75.dir\\C++OOPs\\Polymorphism\\OperatorOverloading.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Polymorphism\\OperatorOverloading.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Polymorphism/OperatorOverloading.cpp",
+  "output": "CMakeFiles/C___Tutorial_75.dir/C++OOPs/Polymorphism/OperatorOverloading.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_76.dir\\C++OOPs\\Encapsulation\\Encapsulation.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Encapsulation\\Encapsulation.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Encapsulation/Encapsulation.cpp",
+  "output": "CMakeFiles/C___Tutorial_76.dir/C++OOPs/Encapsulation/Encapsulation.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_77.dir\\C++OOPs\\Abstraction\\AbstractionExample.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\C++OOPs\\Abstraction\\AbstractionExample.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/C++OOPs/Abstraction/AbstractionExample.cpp",
+  "output": "CMakeFiles/C___Tutorial_77.dir/C++OOPs/Abstraction/AbstractionExample.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_78.dir\\Dynamic_Memory_Allocation\\Malloc.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Dynamic_Memory_Allocation\\Malloc.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Dynamic_Memory_Allocation/Malloc.cpp",
+  "output": "CMakeFiles/C___Tutorial_78.dir/Dynamic_Memory_Allocation/Malloc.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_79.dir\\Dynamic_Memory_Allocation\\Calloc.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Dynamic_Memory_Allocation\\Calloc.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Dynamic_Memory_Allocation/Calloc.cpp",
+  "output": "CMakeFiles/C___Tutorial_79.dir/Dynamic_Memory_Allocation/Calloc.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_80.dir\\Dynamic_Memory_Allocation\\NewDeleteDMA.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Dynamic_Memory_Allocation\\NewDeleteDMA.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Dynamic_Memory_Allocation/NewDeleteDMA.cpp",
+  "output": "CMakeFiles/C___Tutorial_80.dir/Dynamic_Memory_Allocation/NewDeleteDMA.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_81.dir\\Dynamic_Memory_Allocation\\Realloc.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Dynamic_Memory_Allocation\\Realloc.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Dynamic_Memory_Allocation/Realloc.cpp",
+  "output": "CMakeFiles/C___Tutorial_81.dir/Dynamic_Memory_Allocation/Realloc.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_82.dir\\DataStructures\\Arrays\\ArraysCpp.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\DataStructures\\Arrays\\ArraysCpp.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/DataStructures/Arrays/ArraysCpp.cpp",
+  "output": "CMakeFiles/C___Tutorial_82.dir/DataStructures/Arrays/ArraysCpp.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_83.dir\\DataStructures\\Linked_Lists\\LinkedLists.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\DataStructures\\Linked_Lists\\LinkedLists.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/DataStructures/Linked_Lists/LinkedLists.cpp",
+  "output": "CMakeFiles/C___Tutorial_83.dir/DataStructures/Linked_Lists/LinkedLists.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_84.dir\\Pointers\\CppPointers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\CppPointers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/CppPointers.cpp",
+  "output": "CMakeFiles/C___Tutorial_84.dir/Pointers/CppPointers.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_85.dir\\Pointers\\VoidPointerFunction.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Pointers\\VoidPointerFunction.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Pointers/VoidPointerFunction.cpp",
+  "output": "CMakeFiles/C___Tutorial_85.dir/Pointers/VoidPointerFunction.cpp.obj"
+},
+{
+  "directory": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+  "command": "\"D:\\Documents\\Installed Softwares\\mingw32\\mingw32\\bin\\g++.exe\"   -g -std=gnu++17 -o CMakeFiles\\C___Tutorial_86.dir\\Programs\\PrimeNumbers.cpp.obj -c \"D:\\Documents\\C Programming\\C Projects (VS Code)\\C++ Tutorial\\Programs\\PrimeNumbers.cpp\"",
+  "file": "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/Programs/PrimeNumbers.cpp",
+  "output": "CMakeFiles/C___Tutorial_86.dir/Programs/PrimeNumbers.cpp.obj"
+}
+]

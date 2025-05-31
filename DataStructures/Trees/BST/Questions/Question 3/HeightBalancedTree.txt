@@ -1,0 +1,28 @@
+Question – Microsoft (2022), IBM (2022), Wipro (2021), Accenture (2023), Amazon (2020), Cybercoast Technologies (2021)
+
+Problem Statement:
+Determining if a Binary Tree is Height-Balanced
+You are tasked with designing and implementing a function to determine whether a given binary tree is height-balanced. A binary tree is considered height-balanced if, for every node in the tree, the absolute difference between the heights of its left and right subtrees is at most 1.
+Task Details:
+1.	Understanding Tree Node Structure:
+•	Explain the structure of the Node class used in the program. What are its attributes and what do they represent?
+•	How is a new Node initialized in the program, and what does the constructor of Node do?
+2.	Tree Height Calculation:
+•	Review the height function implemented in the program. What is the purpose of this function?
+•	Describe how the height function calculates the height of a given binary tree recursively.
+3.	Checking Tree Balance:
+•	Analyze the isBalanced function. What is the main purpose of this function?
+•	Explain the conditions used in the isBalanced function to determine if a tree is height-balanced.
+•	How does the isBalanced function utilize recursion to evaluate the balance of a binary tree?
+4.	Testing the Program:
+•	The main function constructs a binary tree and then checks if it is balanced using the isBalanced function. Briefly describe the binary tree created in main.
+•	Run through the process of how the program checks whether this specific binary tree is balanced or not. What output would this program produce based on the tree defined in main?
+5.	Coding Challenge:
+•	Implement the Node class with its constructor.
+•	Write the height function that calculates the height of a binary tree.
+•	Create the isBalanced function that checks whether a binary tree is height-balanced or not.
+•	Finally, construct a binary tree similar to the one defined in main and use the isBalanced function to determine its balance.
+
+Instructions:
+•	Write the necessary C++ code to implement the Node class, height function, and isBalanced function based on the descriptions provided.
+•	Construct a binary tree similar to the one in the main function and use your implemented isBalanced function to check its balance.

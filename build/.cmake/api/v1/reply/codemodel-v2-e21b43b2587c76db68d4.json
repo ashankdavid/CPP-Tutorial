@@ -1,0 +1,834 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C___Tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial-Debug-0b99ad083fadf2685be5.json",
+					"name" : "C___Tutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_0-Debug-46d66fb3b84f335571b5.json",
+					"name" : "C___Tutorial_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_1-Debug-e37b02c4ef000d1cc389.json",
+					"name" : "C___Tutorial_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_10-Debug-de2097f1433ce06a2d1a.json",
+					"name" : "C___Tutorial_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_11-Debug-b5faf862db7c78fd4b10.json",
+					"name" : "C___Tutorial_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_12-Debug-042bc726ba7e4fc180b8.json",
+					"name" : "C___Tutorial_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_13-Debug-11aafd6f73e461f71d1f.json",
+					"name" : "C___Tutorial_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_14-Debug-f144e50ee29dbbeb6b5f.json",
+					"name" : "C___Tutorial_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_15-Debug-36dc6766c22056cb3edd.json",
+					"name" : "C___Tutorial_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_16-Debug-7f091655306ccf02b07c.json",
+					"name" : "C___Tutorial_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_17-Debug-1c1001d0669c859f1450.json",
+					"name" : "C___Tutorial_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_18-Debug-b9689c87657be1c0b82d.json",
+					"name" : "C___Tutorial_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_19-Debug-6b4756a66c05e68cd5b8.json",
+					"name" : "C___Tutorial_19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_2-Debug-2cd46275ac2e65c00eb6.json",
+					"name" : "C___Tutorial_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_20-Debug-00cabb93106a7eb60278.json",
+					"name" : "C___Tutorial_20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_21-Debug-46a9e3a24fba19adf6e2.json",
+					"name" : "C___Tutorial_21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_22-Debug-d52635be64f5fabd6965.json",
+					"name" : "C___Tutorial_22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_23-Debug-4c4a55576d48b3b3b69a.json",
+					"name" : "C___Tutorial_23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_24-Debug-93e5d39ff0f7a0c96fae.json",
+					"name" : "C___Tutorial_24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_25-Debug-76fd5402e235de0689ac.json",
+					"name" : "C___Tutorial_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_26::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_26-Debug-03f39b04955a09acd6c0.json",
+					"name" : "C___Tutorial_26",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_27::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_27-Debug-274032921064204b82b1.json",
+					"name" : "C___Tutorial_27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_28-Debug-3733003e899375b77f46.json",
+					"name" : "C___Tutorial_28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_29::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_29-Debug-459b656b414429e9111d.json",
+					"name" : "C___Tutorial_29",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_3-Debug-ec39b9c40e8ac5864acd.json",
+					"name" : "C___Tutorial_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_30-Debug-ffada96e523729809852.json",
+					"name" : "C___Tutorial_30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_31-Debug-d5338be9eff9c8f1a226.json",
+					"name" : "C___Tutorial_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_32-Debug-c25b886041f92e97c331.json",
+					"name" : "C___Tutorial_32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_33-Debug-44953acb65804367ef30.json",
+					"name" : "C___Tutorial_33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_34::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_34-Debug-35cd1d9428b6557d2501.json",
+					"name" : "C___Tutorial_34",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_35::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_35-Debug-fa23db02fbb975a46af4.json",
+					"name" : "C___Tutorial_35",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_36::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_36-Debug-00e3b187b14e0e21a773.json",
+					"name" : "C___Tutorial_36",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_37::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_37-Debug-e1bb0255cab7e9b47da4.json",
+					"name" : "C___Tutorial_37",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_38::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_38-Debug-7c5ce9fed3f847fc25ec.json",
+					"name" : "C___Tutorial_38",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_39::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_39-Debug-9dec4d5c55fd1e801a16.json",
+					"name" : "C___Tutorial_39",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_4-Debug-173e89ca1063a7b9ccdd.json",
+					"name" : "C___Tutorial_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_40::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_40-Debug-605f52a6b24d3ecc8fa5.json",
+					"name" : "C___Tutorial_40",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_41::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_41-Debug-74d20295d4ec70aca081.json",
+					"name" : "C___Tutorial_41",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_42::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_42-Debug-c19cc57999e806bac9f1.json",
+					"name" : "C___Tutorial_42",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_43::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_43-Debug-4f306328b9b48e0bb2a5.json",
+					"name" : "C___Tutorial_43",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_45::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_45-Debug-4741a8ba7d5a346d37fc.json",
+					"name" : "C___Tutorial_45",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_46::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_46-Debug-9ea733a808e8fa9e8173.json",
+					"name" : "C___Tutorial_46",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_47::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_47-Debug-cf9e1e77644bd0d2f636.json",
+					"name" : "C___Tutorial_47",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_48::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_48-Debug-1887eb64a3205404e3f6.json",
+					"name" : "C___Tutorial_48",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_49::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_49-Debug-9bc67c44d9ac52dff224.json",
+					"name" : "C___Tutorial_49",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_5-Debug-b430a48d6ddced80e9ca.json",
+					"name" : "C___Tutorial_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_50::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_50-Debug-ef0ad9611913f240b5fb.json",
+					"name" : "C___Tutorial_50",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_51::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_51-Debug-e16a03e3cd01540cf530.json",
+					"name" : "C___Tutorial_51",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_52::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_52-Debug-473a3ea79a11698c093f.json",
+					"name" : "C___Tutorial_52",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_53::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_53-Debug-ea299f6f1b0a53198510.json",
+					"name" : "C___Tutorial_53",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_54::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_54-Debug-b3fa4bb1ac365b76d384.json",
+					"name" : "C___Tutorial_54",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_55::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_55-Debug-6d23474b13680daa3bfa.json",
+					"name" : "C___Tutorial_55",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_56::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_56-Debug-8b0e980c7340522f2034.json",
+					"name" : "C___Tutorial_56",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_57::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_57-Debug-1235d013a1cc4f7377d3.json",
+					"name" : "C___Tutorial_57",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_58::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_58-Debug-10be76734e18770e225a.json",
+					"name" : "C___Tutorial_58",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_59::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_59-Debug-034fd155de8641f255f4.json",
+					"name" : "C___Tutorial_59",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_6-Debug-5ba11903846543b20ce2.json",
+					"name" : "C___Tutorial_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_60::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_60-Debug-792f9996b6575d0b58c3.json",
+					"name" : "C___Tutorial_60",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_61::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_61-Debug-ad98f56e4c050eb45821.json",
+					"name" : "C___Tutorial_61",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_62::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_62-Debug-b4c130f82c29fb66dd18.json",
+					"name" : "C___Tutorial_62",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_63::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_63-Debug-67524b9b39baedd0efc0.json",
+					"name" : "C___Tutorial_63",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_64::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_64-Debug-0d700ad5aec8d6a9332b.json",
+					"name" : "C___Tutorial_64",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_65::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_65-Debug-63b143a3abcbbb4fd5ae.json",
+					"name" : "C___Tutorial_65",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_66::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_66-Debug-1003fcbc01d5e0d19611.json",
+					"name" : "C___Tutorial_66",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_67::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_67-Debug-9c34f001babf41f8e669.json",
+					"name" : "C___Tutorial_67",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_68::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_68-Debug-d686b3ebb2bf9b560244.json",
+					"name" : "C___Tutorial_68",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_69::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_69-Debug-a97252e8a5500ff6c72e.json",
+					"name" : "C___Tutorial_69",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_7-Debug-8670b22ef63d49f29944.json",
+					"name" : "C___Tutorial_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_70::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_70-Debug-7514ada7c567942fc6ab.json",
+					"name" : "C___Tutorial_70",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_71::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_71-Debug-0325858496749850fc51.json",
+					"name" : "C___Tutorial_71",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_72::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_72-Debug-a35a709d921fbe87f0a7.json",
+					"name" : "C___Tutorial_72",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_73::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_73-Debug-714c1db9644d363420d7.json",
+					"name" : "C___Tutorial_73",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_74::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_74-Debug-32ded4d47d42ad497f3b.json",
+					"name" : "C___Tutorial_74",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_75::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_75-Debug-24f23c6cd8352de108d7.json",
+					"name" : "C___Tutorial_75",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_76::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_76-Debug-2d793d7bca391198b0ad.json",
+					"name" : "C___Tutorial_76",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_77::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_77-Debug-c3cff87b4a5050d7abf0.json",
+					"name" : "C___Tutorial_77",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_78::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_78-Debug-bee21b12edc8ba4d2e8a.json",
+					"name" : "C___Tutorial_78",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_79::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_79-Debug-371612942d21d54383c0.json",
+					"name" : "C___Tutorial_79",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_8-Debug-5bbdd6f31e5953b320d8.json",
+					"name" : "C___Tutorial_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_80::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_80-Debug-c4d69a75bc4f2a06fd91.json",
+					"name" : "C___Tutorial_80",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_81::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_81-Debug-d4a65dbd5a3dc03c528d.json",
+					"name" : "C___Tutorial_81",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_82::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_82-Debug-c34c6e17d18f2f276091.json",
+					"name" : "C___Tutorial_82",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_83::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_83-Debug-86e63b4856745df69696.json",
+					"name" : "C___Tutorial_83",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_84::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_84-Debug-728280c5b7233a41e02e.json",
+					"name" : "C___Tutorial_84",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_85::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_85-Debug-2f1ac3d28d9631da3285.json",
+					"name" : "C___Tutorial_85",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_86::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_86-Debug-e71f1b02caa4e0bc7fb3.json",
+					"name" : "C___Tutorial_86",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Tutorial_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Tutorial_9-Debug-6fb06bd297a0a85c7627.json",
+					"name" : "C___Tutorial_9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial/build",
+		"source" : "D:/Documents/C Programming/C Projects (VS Code)/C++ Tutorial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
